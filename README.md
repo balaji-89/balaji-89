@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="1100" src="https://www.sardonyx.in/themes/images/machine-learning/sardonyx-machine-learning.gif"
-  width="50" height="300">
+  height="250">
 <h1 align="center">Hi 👋, I'm Balaji J</h1>
 <h3 align="center">Machine Learning Enthusiast</h3>
 
