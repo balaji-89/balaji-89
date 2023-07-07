@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/16nnWtJcZ2c5W9oUm17ryy0PbsWJDYI39/view?usp=sharing">here</a>
 
-- ⚡ Fun fact **I'll watch cartoons**
+- ⚡ Fun fact **I love cartoons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
