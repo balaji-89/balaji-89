@@ -5,7 +5,7 @@
 
 - 🤖 I am a passionate self-taught developer from India
 
-- 🏫 I have a Master's in Computer Application Degree.
+- 🏫 I have a Master's Degree in Computer Applications.
 
 - 🌱 I’m currently learning **Tensorflow, DeepLearning**
 
